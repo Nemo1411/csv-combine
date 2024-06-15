@@ -57,4 +57,4 @@ And you set the `input_folder` to `/path/to/your/folder` and `output_file` to `/
 
 ## Author
 
-Your Name - [your-email@example.com](mailto:ryaneirbouh@gmail.com)
+Nemo (mailto:ryaneirbouh@gmail.com)
